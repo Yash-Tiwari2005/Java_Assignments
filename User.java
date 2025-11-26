@@ -183,8 +183,10 @@ class UserInterface {
     }
 }
 
-public class User{
+public class Assignment1{
     public static void main(String[] args) {
         UserInterface.mainMenu();
     }
 }
+
+
